@@ -1,4 +1,4 @@
-# bootstrap-calendar-php-mysql
+# Bootstrap Calendar PHP/MySQL
 Calendario de eventos basado en Bootstrap con conexión a base de datos mediante PHP
 
 El calendario ha sido construido utilizando como base el componente: https://github.com/Serhioromano/bootstrap-calendar
